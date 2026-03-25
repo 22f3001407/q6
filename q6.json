@@ -1,0 +1,6 @@
+{
+  "prompt": "A realistic tailor shop where a tailor is obsessively perfecting a suit on one mannequin, adjusting it with extreme precision. Around him, several other mannequins wear the same suit but it fits them badly — one has sleeves too tight and wrinkled, another has oversized loose shoulders, another looks awkwardly misfitted. The contrast between the perfect fit and poor fits is very clear. No text, no symbols, natural lighting, highly realistic, cinematic detail.",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "A perfectly tailored suit fits one mannequin but fails on others, representing poor generalization."
+}
